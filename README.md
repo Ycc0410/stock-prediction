@@ -97,4 +97,4 @@ class MyPredictor(StockPredictor):
 
 ## 授權條款
 
-本專案採用 MIT 授權條款 - 詳見 [LICENSE](LICENSE) 文件
+本專案採用 MIT 授權條款 
