@@ -1,4 +1,4 @@
-# Taiwan Stock Analysis Framework
+# Taiwan Stock Analysis Framework with random forest
 
 基於機器學習的台股分析框架，整合技術分析指標與隨機森林演算法，提供基礎數據處理和預測模型建構功能。
 
